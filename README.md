@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @samwissyconcept
-- 👀 I’m interested in ... UI/UX Web design Game and app developer 
+- 👋 Hi, I’m @sanwissy
+- 👀 I’m interested in ... UI/UX design 
 - 🌱 I’m currently learning ... HTML/CSS/JS/PY/React
 - 💞️ I’m looking to collaborate on ... Any project
 - 📫 How to reach me ... samwissyconcept1@gmail.com
